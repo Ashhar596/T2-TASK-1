@@ -1,3 +1,11 @@
+Company: CODETECH IT SOLUTION
+
+ID: COD59441
+
+DOMAIN: DATA ANALYTICS
+
+DURATION: 25December to 25February 2025
+
 **Overview**
 This Power BI dashboard is created to visualize and analyze data extracted from an Excel file. It provides actionable insights and key performance indicators (KPIs) to support data-driven decision-making.
 
